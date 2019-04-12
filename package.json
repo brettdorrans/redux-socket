@@ -1,6 +1,6 @@
 {
   "name": "@lapidist/redux-socket",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A middleware for connecting redux and socket.io",
   "author": "Brett Dorrans <hello@lapidist.net>",
   "license": "MIT",
